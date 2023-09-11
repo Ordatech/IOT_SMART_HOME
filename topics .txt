@@ -1,0 +1,4 @@
+BUTTON - pr/home/SurgicalRoom_Indicator/sts
+RELAY - pr/home/{uniqe id in relay file}/sts
+temperature - pr/home/SurgicalRoom_Indicator/6317522/sts
+warning-topic - pr/home/SurgicalRoom_Indicator/warning
